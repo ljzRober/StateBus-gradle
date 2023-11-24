@@ -1,0 +1,5 @@
+rootProject.name = 'JavaGradle'
+include 'annotation-core'
+include 'annotation-processor'
+include 'StatusBus'
+
